@@ -1,0 +1,134 @@
+[
+    {
+        "TeamName": "Detroit Tigers",
+        "TeamDesc": "The 2024 Detroit Tigers season marked the team's 124th year and 25th at Comerica Park, under manager A. J. Hinch. The season began on March 28 against the Chicago White Sox and ended on September 29 with the same opponents. Despite facing a 0.2 percent chance of making the playoffs in mid-August, the Tigers rallied with a remarkable 31–13 record from August 11 onward, securing their first winning season since 2016 on September 22. They clinched their first playoff berth since 2014 on September 27, ending the longest playoff drought in the MLB, and achieved a Wild Card Series sweep against the Houston Astros. However, they were eliminated in the Division Series by the Cleveland Guardians, despite leading the series 2–1.",
+        "TeamDivision": "American League Central",
+        "TeamStadium": "Comerica Park",
+        "TeamRecord": "86W-76L",
+        "TeamManager": "A.J. Hinch",
+        "KeyPlayers": "Riley Greene and Tarik Skubal",
+        "PlayoffHistory": "4 World Series Titles",
+        "TeamPhoto": "Tigers.jpeg"
+    },
+    {
+        "TeamName": "Houston Astros",
+        "TeamDesc": "The 2024 Houston Astros season was marked by a historic start and a rollercoaster journey, as the team entered the season as defending AL West champions. They made headlines on April 1 when pitcher Ronel Blanco threw the earliest no-hitter in MLB history, coinciding with Joe Espada's first managerial win. Despite a challenging beginning that saw them fall to 12–24, the Astros rallied with a seven-game winning streak and ultimately clinched the AL West title for the fourth consecutive year, finishing with an 88–73 record. Key players like José Altuve, Yordan Álvarez, and Kyle Tucker earned All-Star selections, while Alvarez notably hit for the cycle in July. The season culminated in disappointment, as the Astros were swept by the Detroit Tigers in the Wild Card Series, ending their streak of seven consecutive ALCS appearances.",
+        "TeamDivision": "American League West",
+        "TeamStadium": "Minute Maid Park",
+        "TeamRecord": "88W-73L",
+        "TeamManager": "Joe Espada",
+        "KeyPlayers": "José Altuve, Yordan Alvarez, Kyle Tucker",
+        "PlayoffHistory": "2 World Series Titles",
+        "TeamPhoto": "Astros.jpeg"
+    }
+    {
+        "TeamName": "Kansas City Royals",
+        "TeamDesc": "The 2024 Kansas City Royals season marked a remarkable turnaround for the franchise, as they improved significantly under manager Matt Quatraro, finishing with an impressive 86 wins after a dismal 2023. This 30-win increase made the Royals one of only six teams since 1969 to achieve such a feat in consecutive seasons, showcasing the largest turnaround in MLB history over two seasons. On September 14, they secured their first winning record since their World Series championship in 2015, and on September 27, they clinched a postseason berth for the first time in nearly a decade. The Royals swept the Baltimore Orioles in the Wild Card Series but were ultimately defeated by the New York Yankees in the AL Division Series, marking their first postseason matchup since 1980.",
+        "TeamDivision": "American League Central",
+        "TeamStadium": "Kauffman Stadium",
+        "TeamRecord": "86W-76L",
+        "TeamManager": "Matt Quatraro",
+        "KeyPlayers": "Bobby Witt Jr., Salvador Perez, MJ Melendez",
+        "PlayoffHistory": "2 World Series Titles",
+        "TeamPhoto": "Royals.jpg"
+    },
+    {
+        "TeamName": "Baltimore Orioles",
+        "TeamDesc": "The 2024 Baltimore Orioles season was notable for their solid performance as defending AL East champions, marking the 124th year in franchise history and their 33rd at Camden Yards. On September 24, the Orioles clinched a postseason berth for the second consecutive year, a first for the franchise in 27 years. However, their playoff run was short-lived as they were swept by the Kansas City Royals in the Wild Card Series, repeating a past defeat from the 2014 ALCS.",
+        "TeamDivision": "American League East",
+        "TeamStadium": "Camden Yards",
+        "TeamRecord": "91W-71L",
+        "TeamManager": "Brandon Hyde",
+        "KeyPlayers": "Adley Rutschman and Gunnar Henderson",
+        "PlayoffHistory": "3 World Series Titles",
+        "TeamPhoto": "Baltimore.jpg"
+    }
+    {
+        "TeamName": "Cleveland Guardians",
+        "TeamDesc": "The 2024 Cleveland Guardians season marked the franchise's 124th year and their first under manager Stephen Vogt, following Terry Francona's departure. The season began on March 28 against the Oakland Athletics and concluded on September 29 versus the Houston Astros. The Guardians clinched a postseason berth on September 19, becoming the second American League team to do so, and secured their 12th American League Central division title on September 21. This marked their seventh playoff appearance in the last 12 seasons. They triumphed over the Detroit Tigers in the Division Series but were ultimately defeated by the New York Yankees in the American League Championship Series, marking their first trip to the ALCS since 2016.",
+        "TeamDivision": "American League Central",
+        "TeamStadium": "Progressive Field",
+        "TeamRecord": "92W-69L",
+        "TeamManager": "Stephen Vogt",
+        "KeyPlayers": "Steven Kwan, David Fry, Jose Ramirez",
+        "PlayoffHistory": "2 World Series Titles",
+        "TeamPhoto": "Cleveland.jpg"
+    },
+    {
+        "TeamName": "New York Yankees",
+        "TeamDesc": "The 2024 New York Yankees season marked the franchise's 122nd year, during which they extended their streak of winning seasons to 32 years with their 82nd win on September 7. They clinched a postseason berth on September 18, marking their seventh playoff appearance in eight seasons, and secured the American League East title on September 26, their third divisional crown in six years and the 21st overall in franchise history. The Yankees advanced past the Kansas City Royals in the American League Division Series and defeated the Cleveland Guardians in the AL Championship Series, capturing their first AL pennant since 2009. They will face the Los Angeles Dodgers in the 2024 World Series, the first Yankees-Dodgers matchup in the Fall Classic since 1981.",
+        "TeamDivision": "American League East",
+        "TeamStadium": "Yankee Stadium",
+        "TeamRecord": "94W-68L",
+        "TeamManager": "Aaron Boone",
+        "KeyPlayers": "Juan Soto, Giancarlo Stanton, Aaron Judge",
+        "PlayoffHistory": "27 World Series Titles",
+        "TeamPhoto": "NYY.jpeg"
+    }
+    {
+        "TeamName": "San Diego Padres",
+        "TeamDesc": "The 2024 San Diego Padres season was the franchise's 56th year, during which they achieved their first 90-win season since 2010. The Padres secured a wild card spot in the postseason with a historic win over the Los Angeles Dodgers on September 24, featuring a game-winning triple play—the first of its kind to clinch a postseason berth in MLB history. They advanced to the playoffs for the third time in five seasons and swept the Atlanta Braves in the Wild Card Series. However, their postseason run ended in the National League Division Series, where they faced the Los Angeles Dodgers and lost in five games. Notably, on October 6, they set a franchise record by hitting six home runs in a single postseason game during a 10–2 victory, marking a historic achievement in Major League Baseball.",
+        "TeamDivision": "National League West",
+        "TeamStadium": "Petco Park",
+        "TeamRecord": "93W-69L",
+        "TeamManager": "Mike Shildt",
+        "KeyPlayers": "Fernando Tatis Jr. and Manny Machado",
+        "PlayoffHistory": "2 National League Pennants",
+        "TeamPhoto": "SanDiego.jpg"
+    },
+    {
+        "TeamName": "New York Mets",
+        "TeamDesc": "The 2024 New York Mets season marked the franchise's 63rd year and featured a remarkable turnaround after a challenging start. Following a 22–33 record, a pivotal meeting led by shortstop Francisco Lindor sparked a strong recovery, allowing the Mets to finish with an 89–73 record, improving on the previous season's 75 wins. They clinched a postseason berth on September 30 with a dramatic win over the Atlanta Braves. The Mets triumphed over the Milwaukee Brewers in the Wild Card Series and defeated the Philadelphia Phillies in the Division Series, reaching the National League Championship Series for the first time since 2015. Although they lost to the Los Angeles Dodgers in six games, they made history by becoming the first team since 2002 to avoid striking out in a postseason game.",
+        "TeamDivision": "National League East",
+        "TeamStadium": "Citi Field",
+        "TeamRecord": "89W-73L",
+        "TeamManager": "Carlos Mendoza",
+        "KeyPlayers": "Pete Alonso and Francisco Lindor",
+        "PlayoffHistory": "2 World Series Titles",
+        "TeamPhoto": "Mets.jpg"
+    }
+    {
+        "TeamName": "Milwaukee Brewers",
+        "TeamDesc": "The 2024 Milwaukee Brewers season marked the franchise's 55th year in Milwaukee and their 56th overall, as they entered the season as defending National League Central champions. On September 18, they clinched the NL Central title for the second consecutive season and became the first team to secure a postseason berth in 2024 when the Chicago Cubs lost to the Oakland Athletics. This victory marked their third divisional title in four years. However, the Brewers' postseason run ended in the National League Wild Card Series, where they lost to the New York Mets in three games. Notably, the Mets went on to lose in the National League Championship Series to the Los Angeles Dodgers, making them the first team the Brewers lost to in the postseason that did not reach the World Series.",
+        "TeamDivision": "National League Central",
+        "TeamStadium": "American Family Field",
+        "TeamRecord": "93W-69L",
+        "TeamManager": "Pat Murphy",
+        "KeyPlayers": "Blake Perkins, Brice Turang, Jackson Chourio",
+        "PlayoffHistory": "1 National League Pennant",
+        "TeamPhoto": "Brewers.jpg"
+    },
+    {
+        "TeamName": "Atlanta Braves",
+        "TeamDesc": "The 2024 Atlanta Braves season was the franchise's 154th and their eighth at Truist Park, with Brian Snitker serving as manager for the ninth year. The team struggled to build on their impressive 104–58 record from the previous season and faced elimination from the National League East division race on September 20, ending their streak of six consecutive division titles. They secured the final postseason spot on September 30 with a victory over the New York Mets. However, their playoff run was short-lived, as they were swept by the San Diego Padres in the National League Wild Card Series.",
+        "TeamDivision": "National League East",
+        "TeamStadium": "Truist Park",
+        "TeamRecord": "89W-73L",
+        "TeamManager": "Brian Snitker",
+        "KeyPlayers": "Ronald Acuña Jr., Matt Olson, Spencer Strider",
+        "PlayoffHistory": "4 World Series Titles",
+        "TeamPhoto": "Braves.jpeg"
+    }
+    {
+        "TeamName": "Philadelphia Phillies",
+        "TeamDesc": "The 2024 Philadelphia Phillies season marked the franchise's 142nd year and their 21st at Citizens Bank Park, entering the season as the National League runner-ups. The Phillies surpassed their 90–72 record from the previous year with a win over the Milwaukee Brewers on September 17 and secured a postseason berth for the third consecutive season with a decisive 12–2 victory against the New York Mets on September 20. On September 23, they clinched the National League East division title for the first time since 2011 with a win over the Chicago Cubs. However, their playoff journey ended in the National League Division Series, where they were defeated by their division rival Mets in four games.",
+        "TeamDivision": "National League East",
+        "TeamStadium": "Citizens Bank Park",
+        "TeamRecord": "95W-67L",
+        "TeamManager": "Rob Thomson",
+        "KeyPlayers": "Zack Wheeler, Bryce Harper, Kyle Schwarber",
+        "PlayoffHistory": "2 World Series Titles",
+        "TeamPhoto": "Phillies.jpg"
+    },
+    {
+        "TeamName": "Los Angeles Dodgers",
+        "TeamDesc": "The 2024 Los Angeles Dodgers season was the franchise's 135th year and featured the highly anticipated debut of Shohei Ohtani, who signed a record 10-year, $700 million contract. Ohtani made history by becoming the first player in MLB to hit over 50 home runs and steal over 50 bases in a single season, while also breaking Shawn Green's Dodgers single-season home run record with 54. The Dodgers clinched their 12th consecutive postseason berth on September 19, extending their franchise record, and won the National League West division title for the third straight year on September 26. Finishing with a 98–64 record, the best in baseball, they defeated the San Diego Padres in the NL Division Series and triumphed over the New York Mets in the National League Championship Series, capturing their first NL pennant since 2020. The Dodgers will face the New York Yankees in the 2024 World Series, marking the twelfth matchup between the two teams in World Series history and the first since 1981.",
+        "TeamDivision": "National League West",
+        "TeamStadium": "Dodger Stadium",
+        "TeamRecord": "98W-64L",
+        "TeamManager": "Dave Roberts",
+        "KeyPlayers": "Shohei Ohtani, Mookie Betts, Freddie Freeman",
+        "PlayoffHistory": "7 World Series Titles",
+        "TeamPhoto": "LAdodgers.jpg"
+    }
+]
