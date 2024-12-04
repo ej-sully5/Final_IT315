@@ -32,7 +32,7 @@
             "TeamManager": "Matt Quatraro",
             "KeyPlayers": "Bobby Witt Jr., Salvador Perez, MJ Melendez",
             "PlayoffHistory": "2 World Series Titles",
-            "TeamPhoto": "Royals.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Royals.jpg"
         },
         {
             "TeamName": "Baltimore Orioles",
@@ -43,7 +43,7 @@
             "TeamManager": "Brandon Hyde",
             "KeyPlayers": "Adley Rutschman and Gunnar Henderson",
             "PlayoffHistory": "3 World Series Titles",
-            "TeamPhoto": "Baltimore.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Baltimore.jpg"
         },
         {
             "TeamName": "Cleveland Guardians",
@@ -54,7 +54,7 @@
             "TeamManager": "Stephen Vogt",
             "KeyPlayers": "Steven Kwan, David Fry, Jose Ramirez",
             "PlayoffHistory": "2 World Series Titles",
-            "TeamPhoto": "Cleveland.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Cleveland.jpg"
         },
         {
             "TeamName": "New York Yankees",
@@ -65,7 +65,7 @@
             "TeamManager": "Aaron Boone",
             "KeyPlayers": "Juan Soto, Giancarlo Stanton, Aaron Judge",
             "PlayoffHistory": "27 World Series Titles",
-            "TeamPhoto": "NYY.jpeg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/NYY.jpeg"
         },
         {
             "TeamName": "San Diego Padres",
@@ -76,7 +76,7 @@
             "TeamManager": "Mike Shildt",
             "KeyPlayers": "Fernando Tatis Jr. and Manny Machado",
             "PlayoffHistory": "2 National League Pennants",
-            "TeamPhoto": "SanDiego.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/SanDiego.jpg"
         },
         {
             "TeamName": "New York Mets",
@@ -87,7 +87,7 @@
             "TeamManager": "Carlos Mendoza",
             "KeyPlayers": "Pete Alonso and Francisco Lindor",
             "PlayoffHistory": "2 World Series Titles",
-            "TeamPhoto": "Mets.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Mets.jpg"
         },
         {
             "TeamName": "Milwaukee Brewers",
@@ -98,7 +98,7 @@
             "TeamManager": "Pat Murphy",
             "KeyPlayers": "Blake Perkins, Brice Turang, Jackson Chourio",
             "PlayoffHistory": "1 National League Pennant",
-            "TeamPhoto": "Brewers.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Brewers.jpg"
         },
         {
             "TeamName": "Atlanta Braves",
@@ -109,7 +109,7 @@
             "TeamManager": "Brian Snitker",
             "KeyPlayers": "Ronald Acuña Jr., Matt Olson, Spencer Strider",
             "PlayoffHistory": "4 World Series Titles",
-            "TeamPhoto": "Braves.jpeg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Braves.jpeg"
         },
         {
             "TeamName": "Philadelphia Phillies",
@@ -120,7 +120,7 @@
             "TeamManager": "Rob Thomson",
             "KeyPlayers": "Zack Wheeler, Bryce Harper, Kyle Schwarber",
             "PlayoffHistory": "2 World Series Titles",
-            "TeamPhoto": "Phillies.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/Phillies.jpg"
         },
         {
             "TeamName": "Los Angeles Dodgers",
@@ -131,7 +131,7 @@
             "TeamManager": "Dave Roberts",
             "KeyPlayers": "Shohei Ohtani, Mookie Betts, Freddie Freeman",
             "PlayoffHistory": "7 World Series Titles",
-            "TeamPhoto": "LAdodgers.jpg"
+            "TeamPhoto": "https://raw.githubusercontent.com/ej-sully5/Final_IT315/refs/heads/main/LAdodgers.jpg"
         }
     ], 
     "Status":"OK"
